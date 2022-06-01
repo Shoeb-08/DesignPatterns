@@ -1,0 +1,8 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "hp".(ÕŸÓ
+=
+java:S1481"'Remove this unused "hp" local variable.(ÕŸÓ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(²›ıy
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ëóÓ'
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¦™ûÿÿÿÿ
